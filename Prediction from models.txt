@@ -1,0 +1,13 @@
+    Models from Output
+
+1.model = LinearRegression()
+Mean: 5.030437102767306
+Standard deviations: 1.0607661158294837
+
+2.model = DecisionTreeRegressor() 
+Mean: 4.279918791067187
+Standard deviations: 0.7433415952547224
+
+3.Model = RandomForestRegressor()
+Mean: 3.3794436216570816
+Standard deviations: 0.8023446847223743
